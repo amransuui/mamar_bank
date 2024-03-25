@@ -118,7 +118,6 @@ DATABASES = {
     'default': dj_database_url.config(
         # Replace this value with your local database's connection string.
         default='postgres://mamarbank_o77b_user:fGRwiDOJ8zt5y4oc0HyOlzJFSYo3lX2H@dpg-co0tjo21hbls73e84gog-a.oregon-postgres.render.com/mamarbank_o77b',
-        # conn_max_age=600
     )
 }
 
